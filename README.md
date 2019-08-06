@@ -1,5 +1,7 @@
 # Física Computacional
 
+**Nota**: Como material de estudio de preámbulo, están las notas del curso de Computación de primer semestre, en la carpeta `MaterialAuxiliar`
+
 Este es el repositorio del curso de Física Computacional impartido por Carlos Malanche y Víctor Milchorena.
 
 ## Temario
@@ -13,7 +15,7 @@ Este es el repositorio del curso de Física Computacional impartido por Carlos M
     * Ingeniería del Software: buenas prácticas (fragmentación de código, nombramiento de variables, comentarios, etc).
     * Programación orientada a objetos: Clases, herencia, polimorfismo.
     * Uso avanzado del lenguaje (funciones lambda, sobrecarga de operadores).
-2. Análsis de algoritmos
+2. Análisis de algoritmos
     * Complejidad algorítmica espacial/temporal
     * Estructuras de datos: filas, listas, árboles, _heaps_.
     * Ordenamiento: _Bubble sort_, _merge sort_, _heap sort_, _quick sort_.

@@ -1,6 +1,6 @@
 # Superconcurso
 
-Todos los programas reciben la información por `stdin` (es decir, se lee con `std::cin` o con `std::getline`), nada pasa como argumento.
+Todos los programas reciben la información por `stdin` (es decir, se lee con `std::cin` o con `std::getline`), nada pasa como argumento. La salida debería terminar con `'\n'` (léase, el `std::cout` donde escupan la respuesta debe tener también un `std::endl`).
 
 # Lista de Programas:
 

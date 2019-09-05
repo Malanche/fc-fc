@@ -1,3 +1,9 @@
+# Superconcurso
+
+Todos los programas reciben la información por `stdin` (es decir, se lee con `std::cin` o con `std::getline`), nada pasa como argumento.
+
+# Lista de Programas:
+
 ## invierte.cpp
 
 Hagan un programa que reciba una cadena de caracteres con espacios, y regrese la cadena invertida.
